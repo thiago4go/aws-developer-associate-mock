@@ -111,7 +111,7 @@ function App() {
         />
       ) : (
         <>
-          <h1>Kubernetes Security KCSA Mock Exam</h1>
+          <h1>AWS Developer Associate Mock Examm</h1>
           {examStarted && !reviewingFlagged && (
             <Exam
               questions={examQuestions}
